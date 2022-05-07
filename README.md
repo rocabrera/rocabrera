@@ -2,9 +2,23 @@
 
 I'm an engineer and computer scientist currently interested in Mlops, Software Architecture Patterns and Deep Learning applied to unstructured data like audio, text and images. 
 
+My current main stack:
+
+![Python](http://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=blue)
+![Go](https://img.shields.io/badge/-Go-333333?style=flat-square&logo=go&logoColor=007396)
+![Git](https://img.shields.io/badge/-git-333333?style=flat-square&logo=git)
+![Linux](http://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux)
+![Postman](https://img.shields.io/badge/-postman-333333?style=flat-square&logo=postman)
+![AWS](https://img.shields.io/badge/-Cloud-333333?style=flat-square&logo=Amazon%20AWS)
+![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat-square&logo=Terraform&logoColor=purple)
+![Docker](http://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
+![Spark](http://img.shields.io/badge/-Spark-333333?style=flat-square&logo=apachespark)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![Vim](https://img.shields.io/badge/-Vim-333333?style=flat-square&logo=Vim)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat-square&logo=Jupyter)
 
 
-<h4 align="left">Contacts</h4>
+#### Contacts
 
 <p align="left">
 
@@ -26,31 +40,3 @@ I'm an engineer and computer scientist currently interested in Mlops, Software A
   </a> -->
   
 </p>
-
-<!--  
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go&logoColor=007396)
-  ![Javascript](https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript)
-- 🌐 &nbsp;
-  ![AWS](https://img.shields.io/badge/-Cloud-333333?style=flat&logo=Amazon%20AWS)
-  ![Postman](https://img.shields.io/badge/-postman-333333?style=flat&logo=postman)
-DB section
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![MariaDBb](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=MariaDB)
-
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-git-333333?style=flat&logo=git)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
-  ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-333333?style=flat&logo=Apache%20Airflow)
-  ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=Terraform)
-  
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=Vim)
-  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)
--->
-  
-  
