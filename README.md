@@ -12,7 +12,6 @@ My current main stack:
 ![AWS](https://img.shields.io/badge/-Cloud-333333?style=flat-square&logo=Amazon%20AWS)
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat-square&logo=Terraform&logoColor=purple)
 ![Docker](http://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
-![Spark](http://img.shields.io/badge/-Spark-333333?style=flat-square&logo=apachespark)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat-square&logo=Vim)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat-square&logo=Jupyter)
