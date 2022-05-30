@@ -1,6 +1,6 @@
 ## About me
 
-I'm an engineer and computer scientist currently interested in Mlops, Software Architecture Patterns and Deep Learning applied to unstructured data like audio, text and images. 
+I'm a biomedical engineer and computer scientist currently interested in Mlops, Software Architecture Patterns and Deep Learning applied to unstructured data like audio, text and images. 
 
 My current main stack:
 
