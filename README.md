@@ -8,14 +8,13 @@ My current main stack:
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat-square&logo=go&logoColor=007396)
 ![Git](https://img.shields.io/badge/-git-333333?style=flat-square&logo=git)
 ![Linux](http://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux)
-<!-- ![Postman](https://img.shields.io/badge/-postman-333333?style=flat-square&logo=postman) -->
 ![AWS](https://img.shields.io/badge/-Cloud-333333?style=flat-square&logo=Amazon%20AWS)
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat-square&logo=Terraform&logoColor=purple)
 ![Docker](http://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat-square&logo=Vim)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat-square&logo=Jupyter)
-
+<!-- ![Postman](https://img.shields.io/badge/-postman-333333?style=flat-square&logo=postman) -->
 
 #### Contacts
 
