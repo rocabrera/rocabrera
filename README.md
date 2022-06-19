@@ -8,7 +8,7 @@ My current main stack:
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat-square&logo=go&logoColor=007396)
 ![Git](https://img.shields.io/badge/-git-333333?style=flat-square&logo=git)
 ![Linux](http://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux)
-![Postman](https://img.shields.io/badge/-postman-333333?style=flat-square&logo=postman)
+<!-- ![Postman](https://img.shields.io/badge/-postman-333333?style=flat-square&logo=postman) -->
 ![AWS](https://img.shields.io/badge/-Cloud-333333?style=flat-square&logo=Amazon%20AWS)
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat-square&logo=Terraform&logoColor=purple)
 ![Docker](http://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
