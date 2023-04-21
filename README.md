@@ -5,7 +5,6 @@ I'm a biomedical engineer and computer scientist currently interested in Mlops, 
 My current main stack:
 
 ![Python](http://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=blue)
-![Go](https://img.shields.io/badge/-Go-333333?style=flat-square&logo=go&logoColor=007396)
 ![Git](https://img.shields.io/badge/-git-333333?style=flat-square&logo=git)
 ![Linux](http://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux)
 ![AWS](https://img.shields.io/badge/-Cloud-333333?style=flat-square&logo=Amazon%20AWS)
